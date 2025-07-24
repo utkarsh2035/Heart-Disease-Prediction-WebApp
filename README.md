@@ -54,7 +54,7 @@ To provide users with:
 
 | Screenshot |
 |------------|
-| ![WebApp Preview](https://github.com/utkarsh2035/Heart-Disease-Prediction-WebApp/blob/main/preview.png) |
+| ![WebApp Preview](https://github.com/utkarsh2035/Heart-Disease-Prediction-WebApp/blob/main/Heart%20Desease%20Prediction.png) |
 
 - 🔢 **Sliders & Select Boxes** — For real-time patient input
 - ⚙️ **Logistic Model (86% accuracy)** — Predicts low/high heart disease risk
